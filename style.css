@@ -1,0 +1,98 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dokdo&display=swap');
+
+body {
+    font-family: 'Nanum Gothic', Droid Serif !important;
+}
+
+xmp {
+    font-family: 'Nanum Gothic', Droid Serif !important;
+}
+.drgx {
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.nnsk {
+    font-family: 'NanumSquare', sans-serif !important;
+}
+
+.nnpn {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.bmja {
+    font-family: 'Jua', sans-serif;
+}
+
+.gnsr {
+    font-family: '궁서'
+}
+
+.btan {
+    font-family: '바탕';
+}
+
+.dodm {
+    font-family: '돋움';
+}
+
+.myzo {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.gotc {
+    font-family: '고딕';
+}
+
+.dcdo {
+    font-family: 'Dokdo', cursive;
+}
+
+.ttl{
+    line-height: 90px;
+    width: screen;
+    height: 100px;
+    background: black;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 7px;
+    font-size: 17px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17px;
+    border: 1px solid black
+}
+
+.line{
+    margin: 50px;
+    width: screen;
+    height: 1px;
+    background: black;
+    text-align: left;
+}

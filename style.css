@@ -90,10 +90,9 @@ button:hover {
 }
 
 .line{
-    margin-top: 50px;
-    margin-bottom:50px;
-    width: screen;
+    width: 90%;
     height: 1px;
     background: black;
     text-align: left;
 }
+

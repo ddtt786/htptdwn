@@ -86,13 +86,68 @@ button:hover {
     border-radius: 5px;
     padding: 7px;
     font-size: 17px;
-    border: 1px solid black
+    border: 1px solid black;
+    cursor: pointer;
 }
 
 .line{
-    width: 90%;
+    margin: 50 0 50 0px;
+    width: screen;
     height: 1px;
     background: black;
     text-align: left;
 }
 
+select {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17;
+    border: 1px solid white;
+}
+
+select:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 17;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+option {
+    background-color: black;
+    color: white;
+}
+
+img {
+    border-radius: 5px;
+}
+
+blockquote {
+    margin: 15px;
+    line-height: 90px;
+    width: screen;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 100px;
+    background: black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.prpl {
+    border-radius: 40%;
+}
+
+hr {
+    background-color: gray;
+    border: 0;
+    height: 1px;
+    margin: 70 0 70 0px;
+}
